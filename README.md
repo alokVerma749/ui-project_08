@@ -82,9 +82,8 @@ This project is presently deployed in **Netlify Service**
   - ✔ CSS Selectors
   - ✔ CSS Positioning
   - ✔ Background property 
-  - ✔ Pseudo Elements
-  - ✔ z-index
-
+  - ✔ Gradient
+  - 
 <!-- NOTE -->
 
 ## Note
