@@ -18,7 +18,7 @@
 
   <p align="center">
     <br />
-    <a href="https://alokverma-uiproject-08.netlify.app/">View Demo</a>
+    <a href="https://alokverma-uiproject-08.netlify.app/">Live Link</a>
   </p>
 </div>
 
@@ -44,7 +44,7 @@
 
 ![Project 08: uiproject-08](https://github.com/alokVerma749/ui-project_08/blob/master/8.png)
 
-Here's a project learnt and build the project based on HTML5 and CSS3 only
+Here's a project learnt and build with HTML5 and CSS3 only
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
@@ -83,12 +83,13 @@ This project is presently deployed in **Netlify Service**
   - ✔ CSS Positioning
   - ✔ Background property 
   - ✔ Gradient
-  - 
+  - ✔ flexbox
+- ✔ Git & Github
 <!-- NOTE -->
 
 ## Note
 
-For this project I took around `5 to 6 hours` to complete it. The major portion of my time spent in working on CSS Positions.
+For this project I took around `3 to 4 hours` to complete it. The major portion of my time spent in working on CSS Positions.
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
