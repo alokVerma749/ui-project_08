@@ -13,6 +13,9 @@ nav {
   justify-content: space-around;
   align-items: center;
 }
+[alt="hamburger"]{
+  display: none;
+}
 .nav-items {
   width: 35vw;
   display: flex;
@@ -90,4 +93,45 @@ img[alt="intro-img"] {
   display: block;
   position: absolute;
   bottom: 5em;
+}
+
+@media screen and (max-width:850px){
+  body{
+    height: fit-content;
+    width: 100vw;
+    height: fit-content;
+}
+[alt="hamburger"]{
+  display: block;
+}
+.nav-items{
+  display: none;
+}
+.intro-section{
+  flex-direction: column-reverse;
+  justify-content: center;
+
+}
+.left-section{
+  width: 100%;
+  text-align: center;
+}
+.left-section h1{
+  text-align: center;
+  font-size: 50px;
+  width: 80vw;
+}
+.left-section h4{
+  text-align: center;
+  font-size: 20px;
+  width: 80vw;
+}
+img[alt="intro-img"] {
+  display: block;
+  width: 80vw;
+  margin: 10px auto;
+}
+.intro-section .learn-more-btn{
+  margin: 0 auto;
+}
 }
